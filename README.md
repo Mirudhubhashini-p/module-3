@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <h1>Food LLC</h1>
+  <nav class="Food LLC"></nav>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body {
@@ -16,7 +18,10 @@ body {
 </head>
 <body>
 <div class="container-fluid">
-  ...
+</div>
+  <div class="row">
+  <div class="col-xs-12 col-md-8">.col-xs-12 .col-md-8</div>
+  <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
 </div>
 <p>chicken, (Gallus gallus), any of more than 60 breeds of medium-sized poultry that are primarily descended from the wild red jungle fowl (Gallus gallus, family Phasianidae, order Galliformes) of India. The chicken is perhaps the most widely domesticated fowl, raised worldwide for its meat and eggs.
 
