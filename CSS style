@@ -3,4 +3,24 @@ background-color:#b3b9ba;
 Color:black;
 text-align:left:
 font-family: 'Fredoka', sans-serif;
+margin:0;
+padding:20px;
+}
+h3
+{
+text-align: center;
+font-family:sans-seriff;
+font-size:180%;
+}
+p,div{
+text-align:center;
+color:black;
+font-family:sans-seriff;
+font-size:150%;
+}
+p
+{
+background-color:#b3b9ba;
+margin:0;
+padding:20px;
 }
